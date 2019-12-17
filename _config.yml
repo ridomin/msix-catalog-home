@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: MSIX Catalog
+description: Shows your APPX/MSIX apps
+logo: assets/img/logo.png
+show_downloads: true
